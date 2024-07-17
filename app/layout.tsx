@@ -100,7 +100,7 @@ export const metadata: Metadata = {
     ],
   },
   applicationName: "Jotter",
-  manifest: "https://otion-phi.vercel.app/site.webmanifest",
+  manifest: "https://jotter-eight.vercel.app/site.webmanifest",
 };
 
 export const viewport: Viewport = {
